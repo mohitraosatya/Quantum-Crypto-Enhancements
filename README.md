@@ -31,5 +31,5 @@ This repository contains two proof-of-concept notebooks that demonstrate quantum
 - **Security Audits:** Perform comprehensive security audits and optimize performance for potential production deployment.
 
 ## Contact:
-Email: saka4332@colorado.edu
+Email: saka4331@colorado.edu
 Linkedin: https://www.linkedin.com/in/mohitraosatya/
